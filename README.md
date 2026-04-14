@@ -1,4 +1,4 @@
-# Sova Coding JavaScript Trimester 1 Curriculum
+# Sova Coding JavaScript Fundamentals Curriculum
 
 ## Overview
 This curriculum is designed for absolute beginners in JavaScript programming, gradually introducing concepts across 10 lessons.  
